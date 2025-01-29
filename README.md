@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zunaira Farooq...
+- 👋 Hi, I’m Zunaira Farooq...
 - 👀 I’m interested in Artificial intelligence & New technologies.
 - 🌱 I’m currently learning HTML,CSS,JS.
 - 💞️ I’m looking to collaborate with experts.
-- 📫 How to reach me >geekstech29@gmail.com
+- 📫 How to reach me geekstech29@gmail.com
 - 😄 Pronouns: windz
 - ⚡ Interest : coding,AI,innovations,Project management,leading.
 
